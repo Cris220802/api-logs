@@ -1,0 +1,5 @@
+com\upiiz\logs\logs\models\LogsModel.class
+com\upiiz\logs\logs\services\LogsService.class
+com\upiiz\logs\logs\controllers\LogsController.class
+com\upiiz\logs\logs\LogsApplication.class
+com\upiiz\logs\logs\repository\LogsRepository.class
